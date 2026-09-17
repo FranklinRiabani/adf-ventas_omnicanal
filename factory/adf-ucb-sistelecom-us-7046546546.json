@@ -1,0 +1,10 @@
+{
+	"name": "adf-ucb-sistelecom-us-7046546546",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus"
+}
